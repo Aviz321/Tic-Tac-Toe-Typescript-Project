@@ -1,0 +1,14 @@
+D:\.Net\Typescript OOP Project\Typescript OOP Project\bin\TypeScriptHTMLApp1.dll.config
+D:\.Net\Typescript OOP Project\Typescript OOP Project\bin\TypeScriptHTMLApp1.dll
+D:\.Net\Typescript OOP Project\Typescript OOP Project\bin\TypeScriptHTMLApp1.pdb
+D:\.Net\Typescript OOP Project\Typescript OOP Project\obj\Debug\Typescript OOP Project.csproj.AssemblyReference.cache
+D:\.Net\Typescript OOP Project\Typescript OOP Project\obj\Debug\Typescript OOP Project.csproj.CoreCompileInputs.cache
+D:\.Net\Typescript OOP Project\Typescript OOP Project\obj\Debug\TypeScriptHTMLApp1.dll
+D:\.Net\Typescript OOP Project\Typescript OOP Project\obj\Debug\TypeScriptHTMLApp1.pdb
+D:\.Net\Typescript OOP Project\Typescript OOP Project\Typescript OOP Project\bin\TypeScriptHTMLApp1.dll.config
+D:\.Net\Typescript OOP Project\Typescript OOP Project\Typescript OOP Project\bin\TypeScriptHTMLApp1.dll
+D:\.Net\Typescript OOP Project\Typescript OOP Project\Typescript OOP Project\bin\TypeScriptHTMLApp1.pdb
+D:\.Net\Typescript OOP Project\Typescript OOP Project\Typescript OOP Project\obj\Debug\Typescript OOP Project.csproj.AssemblyReference.cache
+D:\.Net\Typescript OOP Project\Typescript OOP Project\Typescript OOP Project\obj\Debug\Typescript OOP Project.csproj.CoreCompileInputs.cache
+D:\.Net\Typescript OOP Project\Typescript OOP Project\Typescript OOP Project\obj\Debug\TypeScriptHTMLApp1.dll
+D:\.Net\Typescript OOP Project\Typescript OOP Project\Typescript OOP Project\obj\Debug\TypeScriptHTMLApp1.pdb
