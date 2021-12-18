@@ -1,0 +1,16 @@
+Typescript OOP Project:
+
+Each user in his turn marks a mark on the board.
+At each stage we will check if there is a winner who can be notified on the screen and the game ends
+
+classes:                 
+
+Computer - responsible for the calculation of the computer before each move
+
+Player - the user thats play against the computer and also contains the answer to the errors he could possibly do
+
+Board - responsible for printing and put each number in each cell in the board
+
+Cell - define the numbers in the game 
+
+Errors - all the errors that could possibly happend in the game
